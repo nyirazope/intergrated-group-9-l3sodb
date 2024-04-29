@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enetrtainment form</title>
+</head>
+<body>
+    <form><div>
+         ENTERTAINMENT FORM</div>
+         <div>event name </div>
+        <input type="text" >
+        <div>client name</div>
+        <input type="text" name="" id="">: first name <input type="text" name="" id="">:second name
+        <div>client number</div>
+        <input type="number" name="" id="" placeholder="(000-00000)">
+        <div>email</div>
+        <input type="text" name="" id="">
+        <div>date of service</div>
+        <input type="date" name="" id="">
+        <input type="button" value="submit">
+    </form>
+</body>
+</html>
+  
